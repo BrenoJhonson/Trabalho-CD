@@ -1,0 +1,11 @@
+combo,support,confidence,lift
+sabonete → presunto,0.14285714285714285,1.0,7.0
+presunto → sabonete,0.14285714285714285,1.0,7.0
+leite integral → presunto,0.14285714285714285,1.0,7.0
+presunto → leite integral,0.14285714285714285,1.0,7.0
+leite integral → sabonete,0.14285714285714285,1.0,7.0
+sabonete → leite integral,0.14285714285714285,1.0,7.0
+presunto → cafe,0.14285714285714285,1.0,7.0
+cafe → presunto,0.14285714285714285,1.0,7.0
+leite integral → cafe,0.14285714285714285,1.0,7.0
+cafe → leite integral,0.14285714285714285,1.0,7.0

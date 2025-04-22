@@ -1,0 +1,1081 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'condicionador'}),"frozenset({'pasta de dente', 'shampoo', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'refrigerante'})","frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'sabao em po'})","frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante', 'sabao em po'})","frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'refrigerante'})","frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'sabao em po'})","frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})","frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'condicionador'})","frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'refrigerante'})","frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'sabao em po'})","frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'refrigerante', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'refrigerante', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'condicionador', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'condicionador', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo', 'refrigerante', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'leite integral', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})","frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})","frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})","frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})","frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})","frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})","frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})","frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})","frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})","frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})","frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})","frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})","frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'leite integral'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})","frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})","frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})","frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})","frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})","frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})","frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'sabonete'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'sabonete'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'sabonete'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'leite integral'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})","frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})","frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})","frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})","frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})","frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})","frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'sabonete', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'leite integral', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'cafe', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'cafe', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'cafe', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'leite integral', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})","frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})","frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})","frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})","frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})","frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})","frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete', 'presunto'})",frozenset({'cafe'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'sabonete'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral'})","frozenset({'carvao', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})","frozenset({'cafe', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete'})","frozenset({'carvao', 'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'presunto'})","frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete', 'presunto'})","frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete', 'presunto'})","frozenset({'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'sabonete'})","frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'presunto'})","frozenset({'carvao', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'presunto'})","frozenset({'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'leite integral'})","frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'sabonete', 'presunto'})","frozenset({'carvao', 'cafe'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'sabonete'})","frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral', 'sabonete'})","frozenset({'cafe', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'sabonete', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe', 'leite integral', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'leite integral', 'sabonete', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'cafe', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'cafe'}),"frozenset({'carvao', 'leite integral', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'cafe', 'leite integral', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'carvao', 'cafe', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'cafe', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'presunto'})","frozenset({'carvao', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})","frozenset({'cafe', 'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'cafe'})","frozenset({'leite integral', 'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})","frozenset({'carvao', 'cafe', 'leite integral'})",0.14285714285714285,1.0,7.0
+"frozenset({'cafe', 'sabonete'})","frozenset({'carvao', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'sabonete'})","frozenset({'cafe', 'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})","frozenset({'carvao', 'cafe', 'sabonete'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})","frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})","frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})","frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})","frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})","frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})","frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'agua mineral'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})","frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})","frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'acucar'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'acucar'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'acucar'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'agua mineral'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})","frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})","frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})","frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})","frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'agua mineral', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'detergente', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})","frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})","frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})","frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})","frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})","frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})","frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})","frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})","frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})","frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})","frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'agua mineral', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar', 'vinho'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'detergente', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'acucar', 'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'detergente', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'acucar', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})","frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})","frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'acucar', 'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'vinho'})","frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})","frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})","frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})","frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})","frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})","frozenset({'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'acucar', 'detergente', 'vinho'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar', 'vinho'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'acucar', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'acucar', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'vinho'})","frozenset({'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'vinho'})","frozenset({'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'agua mineral'})","frozenset({'vinho', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'vinho', 'agua mineral', 'acucar'})","frozenset({'molho de tomate', 'detergente'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho', 'acucar'})","frozenset({'molho de tomate', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'acucar'})","frozenset({'molho de tomate', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho', 'acucar'})","frozenset({'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral', 'acucar'})","frozenset({'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'acucar'})","frozenset({'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'agua mineral', 'vinho'})",frozenset({'acucar'}),0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho', 'agua mineral', 'acucar'})",frozenset({'molho de tomate'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho', 'agua mineral', 'acucar'})",frozenset({'detergente'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'vinho', 'acucar'})",frozenset({'agua mineral'}),0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente', 'agua mineral', 'acucar'})",frozenset({'vinho'}),0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'vinho'}),"frozenset({'molho de tomate', 'detergente', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'agua mineral'}),"frozenset({'molho de tomate', 'detergente', 'vinho', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'detergente'}),"frozenset({'molho de tomate', 'vinho', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'molho de tomate'}),"frozenset({'detergente', 'vinho', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'acucar'}),"frozenset({'molho de tomate', 'detergente', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'vinho'})","frozenset({'molho de tomate', 'detergente', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'vinho'})","frozenset({'molho de tomate', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral'})","frozenset({'molho de tomate', 'vinho', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'vinho'})","frozenset({'detergente', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'agua mineral'})","frozenset({'detergente', 'vinho', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'detergente'})","frozenset({'vinho', 'agua mineral', 'acucar'})",0.14285714285714285,1.0,7.0
+"frozenset({'vinho', 'acucar'})","frozenset({'molho de tomate', 'detergente', 'agua mineral'})",0.14285714285714285,1.0,7.0
+"frozenset({'agua mineral', 'acucar'})","frozenset({'molho de tomate', 'detergente', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'acucar'})","frozenset({'molho de tomate', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'molho de tomate', 'acucar'})","frozenset({'detergente', 'agua mineral', 'vinho'})",0.14285714285714285,1.0,7.0
+"frozenset({'detergente', 'agua mineral', 'vinho'})","frozenset({'molho de tomate', 'acucar'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),frozenset({'sal'}),0.14285714285714285,1.0,7.0
+frozenset({'sal'}),frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),frozenset({'sal'}),0.14285714285714285,1.0,7.0
+frozenset({'sal'}),frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),frozenset({'sal'}),0.14285714285714285,1.0,7.0
+frozenset({'sal'}),frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})","frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})","frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})","frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})","frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})","frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})","frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'papel toalha'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),frozenset({'sal'}),0.14285714285714285,1.0,7.0
+frozenset({'sal'}),frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'arroz'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'papel toalha'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'papel toalha'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'farinha de trigo', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'papel toalha', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})","frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})","frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})","frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})","frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})","frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})","frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'papel toalha'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha', 'arroz'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})","frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})","frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'arroz'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'arroz', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'arroz', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})","frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})","frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})","frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})","frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})","frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})","frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})","frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})","frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})","frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})","frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha', 'arroz'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'farinha de trigo', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'sal', 'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})","frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})","frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})","frozenset({'sal', 'arroz'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'arroz'})","frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'sal', 'suco de laranja'})","frozenset({'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha', 'sal'})","frozenset({'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})","frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'papel toalha'})","frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'sal'})","frozenset({'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'papel toalha', 'suco de laranja'})",frozenset({'arroz'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha', 'sal', 'suco de laranja'})",frozenset({'farinha de trigo'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'papel toalha', 'suco de laranja'})",frozenset({'sal'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'sal', 'suco de laranja'})",frozenset({'papel toalha'}),0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo', 'papel toalha', 'sal'})",frozenset({'suco de laranja'}),0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'sal', 'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'sal', 'papel toalha', 'arroz'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})","frozenset({'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})","frozenset({'sal', 'papel toalha'})",0.14285714285714285,1.0,7.0
+frozenset({'arroz'}),"frozenset({'sal', 'farinha de trigo', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel toalha', 'suco de laranja'})","frozenset({'arroz', 'farinha de trigo', 'sal'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'suco de laranja'})","frozenset({'arroz', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha'})","frozenset({'arroz', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'suco de laranja'})","frozenset({'arroz', 'papel toalha', 'sal'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha'})","frozenset({'arroz', 'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo'})","frozenset({'arroz', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'suco de laranja'})","frozenset({'sal', 'farinha de trigo', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha'})","frozenset({'sal', 'farinha de trigo', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'sal'})","frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'farinha de trigo'})","frozenset({'sal', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'papel toalha', 'suco de laranja'})","frozenset({'arroz', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+"frozenset({'farinha de trigo', 'papel toalha', 'suco de laranja'})","frozenset({'arroz', 'sal'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'suco de laranja'})","frozenset({'arroz', 'papel toalha'})",0.14285714285714285,1.0,7.0
+"frozenset({'sal', 'farinha de trigo', 'papel toalha'})","frozenset({'arroz', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+"frozenset({'arroz', 'papel toalha', 'suco de laranja'})","frozenset({'sal', 'farinha de trigo'})",0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+frozenset({'suco de laranja'}),"frozenset({'arroz', 'farinha de trigo', 'papel toalha', 'sal'})",0.14285714285714285,1.0,7.0
+frozenset({'papel toalha'}),"frozenset({'arroz', 'farinha de trigo', 'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'sal'}),"frozenset({'arroz', 'farinha de trigo', 'papel toalha', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'farinha de trigo'}),"frozenset({'arroz', 'papel toalha', 'sal', 'suco de laranja'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})","frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})","frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})","frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})","frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})","frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})","frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'cerveja', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})","frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})","frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})","frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})","frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})","frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})","frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'cerveja'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'amaciante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'manteiga', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'manteiga', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'manteiga', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'cerveja', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})","frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})","frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})","frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})","frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})","frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})","frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'desinfetante'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'desinfetante'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga', 'amaciante'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'feijao', 'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})","frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})","frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})","frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})","frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})","frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})","frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'cerveja'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'cerveja'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'desinfetante'})","frozenset({'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'feijao', 'cerveja'})",frozenset({'desinfetante'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja', 'feijao', 'desinfetante'})",frozenset({'amaciante'}),0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'desinfetante', 'cerveja'})",frozenset({'manteiga'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'desinfetante', 'cerveja'})",frozenset({'feijao'}),0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'feijao', 'desinfetante'})",frozenset({'cerveja'}),0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'feijao', 'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'feijao', 'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})","frozenset({'feijao', 'manteiga'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})","frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})","frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})","frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})","frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'manteiga'})","frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante'})","frozenset({'manteiga', 'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante'})","frozenset({'manteiga', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante'})","frozenset({'feijao', 'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'desinfetante'})","frozenset({'manteiga', 'amaciante', 'feijao'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'desinfetante'})","frozenset({'manteiga', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'desinfetante'})","frozenset({'feijao', 'amaciante', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'amaciante', 'desinfetante'})","frozenset({'manteiga', 'cerveja', 'feijao'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja', 'feijao'})","frozenset({'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'cerveja'})","frozenset({'manteiga', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'cerveja'})","frozenset({'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'amaciante', 'feijao'})","frozenset({'cerveja', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja', 'desinfetante'})","frozenset({'manteiga', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja', 'desinfetante'})","frozenset({'feijao', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'feijao', 'desinfetante'})","frozenset({'cerveja', 'amaciante'})",0.14285714285714285,1.0,7.0
+"frozenset({'cerveja', 'amaciante', 'desinfetante'})","frozenset({'manteiga', 'feijao'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'amaciante', 'desinfetante'})","frozenset({'manteiga', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+frozenset({'cerveja'}),"frozenset({'manteiga', 'amaciante', 'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'feijao'}),"frozenset({'manteiga', 'amaciante', 'desinfetante', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'manteiga'}),"frozenset({'feijao', 'amaciante', 'desinfetante', 'cerveja'})",0.14285714285714285,1.0,7.0
+frozenset({'amaciante'}),"frozenset({'manteiga', 'cerveja', 'feijao', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'desinfetante'}),"frozenset({'manteiga', 'amaciante', 'feijao', 'cerveja'})",0.14285714285714285,1.0,7.0
+"frozenset({'feijao', 'cerveja'})","frozenset({'manteiga', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'cerveja'})","frozenset({'feijao', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+"frozenset({'manteiga', 'feijao'})","frozenset({'cerveja', 'amaciante', 'desinfetante'})",0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'queijo mussarela', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'oleo de soja', 'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})","frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})","frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})","frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})","frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})","frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})","frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})","frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})","frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})","frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})","frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})","frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})","frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'macarrao', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'oleo de soja', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})","frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})","frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})","frozenset({'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'pao de forma'})","frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})","frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})","frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'macarrao', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'oleo de soja', 'queijo mussarela', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'oleo de soja', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'oleo de soja', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})","frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})","frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})","frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})","frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})","frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})","frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'oleo de soja'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'oleo de soja', 'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'macarrao', 'oleo de soja'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma', 'oleo de soja'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})","frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})","frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})","frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})","frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})","frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})","frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'pao de forma'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})",frozenset({'macarrao'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})",frozenset({'pao de forma'}),0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'pao de forma'})","frozenset({'papel higienico', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela'})","frozenset({'pao de forma', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'oleo de soja'})","frozenset({'papel higienico', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'pao de forma'})","frozenset({'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'pao de forma', 'macarrao', 'oleo de soja'})","frozenset({'papel higienico', 'queijo mussarela'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'oleo de soja'})","frozenset({'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma', 'oleo de soja'})","frozenset({'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})","frozenset({'papel higienico', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})","frozenset({'pao de forma', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})","frozenset({'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})","frozenset({'papel higienico', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'pao de forma', 'queijo mussarela', 'oleo de soja'})","frozenset({'papel higienico', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})","frozenset({'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao', 'pao de forma', 'oleo de soja'})",frozenset({'queijo mussarela'}),0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'queijo mussarela', 'macarrao', 'pao de forma'})",frozenset({'oleo de soja'}),0.14285714285714285,1.0,7.0
+"frozenset({'pao de forma', 'queijo mussarela', 'macarrao', 'oleo de soja'})",frozenset({'papel higienico'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'macarrao'}),"frozenset({'papel higienico', 'queijo mussarela', 'pao de forma', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'pao de forma'}),"frozenset({'papel higienico', 'queijo mussarela', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'papel higienico'}),"frozenset({'pao de forma', 'queijo mussarela', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+frozenset({'oleo de soja'}),"frozenset({'papel higienico', 'queijo mussarela', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+frozenset({'queijo mussarela'}),"frozenset({'papel higienico', 'macarrao', 'pao de forma', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'pao de forma'})","frozenset({'papel higienico', 'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'macarrao'})","frozenset({'pao de forma', 'queijo mussarela', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'pao de forma'})","frozenset({'queijo mussarela', 'macarrao', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'macarrao', 'oleo de soja'})","frozenset({'papel higienico', 'queijo mussarela', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'pao de forma', 'oleo de soja'})","frozenset({'papel higienico', 'queijo mussarela', 'macarrao'})",0.14285714285714285,1.0,7.0
+"frozenset({'papel higienico', 'oleo de soja'})","frozenset({'queijo mussarela', 'macarrao', 'pao de forma'})",0.14285714285714285,1.0,7.0
+"frozenset({'queijo mussarela', 'macarrao'})","frozenset({'papel higienico', 'pao de forma', 'oleo de soja'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'sabao em po', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'refrigerante', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})","frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})","frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})","frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})","frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})","frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})","frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante', 'pasta de dente'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po', 'pasta de dente'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})","frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})","frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'condicionador', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})","frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})","frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})","frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})","frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'refrigerante'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'refrigerante'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante', 'pasta de dente'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'pasta de dente'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'pasta de dente', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'pasta de dente', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'refrigerante', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})","frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})","frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})","frozenset({'pasta de dente', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})","frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})","frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})","frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})","frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})","frozenset({'pasta de dente', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})","frozenset({'pasta de dente', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'pasta de dente'})","frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'sabao em po'})",frozenset({'pasta de dente'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po', 'pasta de dente'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'pasta de dente'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'shampoo', 'condicionador', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'refrigerante', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})","frozenset({'shampoo', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})","frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'refrigerante', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})","frozenset({'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})","frozenset({'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})","frozenset({'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})","frozenset({'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})","frozenset({'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})","frozenset({'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'condicionador', 'sabao em po'})",frozenset({'shampoo'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'refrigerante'})",frozenset({'sabao em po'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante', 'sabao em po'})",frozenset({'condicionador'}),0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador', 'sabao em po'})",frozenset({'refrigerante'}),0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'shampoo', 'condicionador', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'condicionador'}),"frozenset({'shampoo', 'sabao em po', 'pasta de dente'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})",frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'refrigerante'}),"frozenset({'pasta de dente', 'shampoo', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'sabao em po'}),"frozenset({'pasta de dente', 'shampoo', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+frozenset({'shampoo'}),"frozenset({'pasta de dente', 'condicionador', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+frozenset({'pasta de dente'}),"frozenset({'shampoo', 'condicionador', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'refrigerante'})","frozenset({'pasta de dente', 'shampoo', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'condicionador', 'sabao em po'})","frozenset({'pasta de dente', 'shampoo', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'sabao em po'})","frozenset({'pasta de dente', 'shampoo', 'condicionador'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'condicionador'})","frozenset({'pasta de dente', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'refrigerante'})","frozenset({'pasta de dente', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'shampoo', 'sabao em po'})","frozenset({'pasta de dente', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'condicionador'})","frozenset({'shampoo', 'refrigerante', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'refrigerante'})","frozenset({'shampoo', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'sabao em po'})","frozenset({'shampoo', 'condicionador', 'refrigerante'})",0.14285714285714285,1.0,7.0
+"frozenset({'pasta de dente', 'shampoo'})","frozenset({'refrigerante', 'condicionador', 'sabao em po'})",0.14285714285714285,1.0,7.0
+"frozenset({'refrigerante', 'condicionador', 'sabao em po'})","frozenset({'pasta de dente', 'shampoo'})",0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'carvao', 'leite integral'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'carvao', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),"frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'leite integral', 'presunto'})",frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+"frozenset({'carvao', 'leite integral'})",frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),frozenset({'sabonete'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),frozenset({'presunto'}),0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),frozenset({'carvao'}),0.14285714285714285,1.0,7.0
+frozenset({'carvao'}),frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
+frozenset({'presunto'}),"frozenset({'leite integral', 'sabonete'})",0.14285714285714285,1.0,7.0
+frozenset({'sabonete'}),"frozenset({'leite integral', 'presunto'})",0.14285714285714285,1.0,7.0
+frozenset({'leite integral'}),"frozenset({'sabonete', 'presunto'})",0.14285714285714285,1.0,7.0
+"frozenset({'sabonete', 'presunto'})",frozenset({'leite integral'}),0.14285714285714285,1.0,7.0
